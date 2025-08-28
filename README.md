@@ -16,7 +16,7 @@ A scalable system to crawl e-commerce sites, extract product data, match product
 
 ### 1. Clone & Install
 ```sh
-git clone <repo-url>
+git clone https://github.com/THECH13F/myonsite.git
 cd myonsite
 python -m venv venv
 venv\Scripts\activate  # On Windows
