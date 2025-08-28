@@ -1,0 +1,13 @@
+playwright
+requests
+beautifulsoup4
+transformers
+sentence-transformers
+scikit-learn
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pytest
+httpx
+google-generativeai
